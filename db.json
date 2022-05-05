@@ -7,5 +7,9 @@
       "age": 38,
       "id": 1
     }
-  ]
+  ],
+
+  "animals": [],
+
+  "animalVaccines": []
 }
